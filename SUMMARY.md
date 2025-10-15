@@ -11,5 +11,4 @@
 
 ## Геймплей
 
-* [Page 1](geimplei/page-1.md)
-  * [Page 2](geimplei/page-1/page-2.md)
+* [История мира](geimplei/istoriya-mira.md)
